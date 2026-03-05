@@ -1,0 +1,5 @@
+{
+  "name": "Log Insight Viewer",
+  "description": "A high-performance CSV log viewer with multi-column filtering and pagination, designed for database log exports.",
+  "requestFramePermissions": []
+}
